@@ -12,4 +12,4 @@ Data Source: https://www.consumerfinance.gov/data-research/consumer-complaints/#
 Key objectives for this project: 
 1. Get insight into various type of issue,sub_issue and their volume 
 2. Identify financial products/serivces got the high complaints
-3. Understand the volume of complaints tied to particular companies and their responsive rate 
+3. Understand the volume of complaints tied to particular companies and their timely_responsive rate 
